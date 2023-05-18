@@ -5,12 +5,7 @@
 🌱 Estudando Angularjs
 <br>
 😄 Ele/Dele
-
-
-
-            
-          
-          
+<br>
 <div>
   <a href="https://github.com/virgilhawkins00">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virgilhawkins00&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -28,28 +23,7 @@
 <img align="center" alt="Alex-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="Alex-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="Alex-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="center" alt="Alex-msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
-          
-          
-            
-                      
-  
+<img align="center" alt="Alex-msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
 </div>  
             
-          
 
-<!--
-**virgilhawkins00/virgilhawkins00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente trabalho como dev fullstack
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
