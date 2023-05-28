@@ -8,9 +8,10 @@
 <br>
 <div>
   <a href="https://github.com/virgilhawkins00">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virgilhawkins00&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgilhawkins00&layout=compact&langs_count=16&theme=aura"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virgilhawkins00&show_icons=true&theme=transparent&bg_color=00000000&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgilhawkins00&layout=donut&langs_count=10&theme=transparent&bg_color=00000000&count_private=true"/>
 </div>
+
   <br>  
 <div style="display: inline-block"><br>  
 <img align="center" alt="Alex-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
