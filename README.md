@@ -26,5 +26,7 @@
 <img align="center" alt="Alex-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="center" alt="Alex-msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
 </div>  
-            
-
+ <div> 
+   <a href="https://www.hackerrank.com/certificates/63ef9a8d6b93" src="https://www.hackerrank.com/certificates/63ef9a8d6b93"> JavaScript </a>
+   <a href="https://www.hackerrank.com/certificates/812950460902" src="https://www.hackerrank.com/certificates/812950460902"> React </a>
+  </div>            
