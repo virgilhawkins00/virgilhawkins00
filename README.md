@@ -29,4 +29,6 @@
  <div> 
    <a href="https://www.hackerrank.com/certificates/63ef9a8d6b93" src="https://www.hackerrank.com/certificates/63ef9a8d6b93"> JavaScript </a>
    <a href="https://www.hackerrank.com/certificates/812950460902" src="https://www.hackerrank.com/certificates/812950460902"> React </a>
+   <a href="https://www.hackerrank.com/certificates/95872c27738e" src="https://www.hackerrank.com/certificates/95872c27738e"> Node </a>
+   <a href="https://www.hackerrank.com/certificates/ce65020048a6" src="https://www.hackerrank.com/certificates/ce65020048a6"> SQL </a> 
   </div>            
