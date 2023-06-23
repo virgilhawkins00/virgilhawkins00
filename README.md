@@ -27,8 +27,14 @@
 <img align="center" alt="Alex-msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
 </div>  
  <div> 
+   Certificados:
+   <br>
    <a href="https://www.hackerrank.com/certificates/63ef9a8d6b93" src="https://www.hackerrank.com/certificates/63ef9a8d6b93"> JavaScript </a>
+   <br>
    <a href="https://www.hackerrank.com/certificates/812950460902" src="https://www.hackerrank.com/certificates/812950460902"> React </a>
+   <br>
    <a href="https://www.hackerrank.com/certificates/95872c27738e" src="https://www.hackerrank.com/certificates/95872c27738e"> Node </a>
+   <br>
    <a href="https://www.hackerrank.com/certificates/ce65020048a6" src="https://www.hackerrank.com/certificates/ce65020048a6"> SQL </a> 
+   <br>
   </div>            
