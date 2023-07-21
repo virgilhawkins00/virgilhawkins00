@@ -2,7 +2,7 @@
 
 🔭 Atualmente trabalho como Dev Fullstack com ênfase em desenvolvimento Web
 <br>
-🌱 Estudando Angularjs
+🌱 Estudando Angular
 <br>
 😄 Ele/Dele
 <br>
