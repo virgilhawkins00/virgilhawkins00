@@ -37,4 +37,45 @@
    <br>
    <a href="https://www.hackerrank.com/certificates/ce65020048a6" src="https://www.hackerrank.com/certificates/ce65020048a6"> SQL </a> 
    <br>
-  </div>            
+  </div>  
+  
+  Backend language:<br>
+🧮 Node.js<br>
+🧮 Java<br>
+🧮 Python<br>
+
+Frontend language:<br>
+🖥️ TS<br>
+🖥️ JS<br>
+
+UI:<br>
+🎨 React<br>
+🎨 Angular<br>
+🎨 Vue<br>
+
+DB:
+📁 PostgreSQL<br>
+📁 MongoDB<br>
+📁 DynamoDB<br>
+📁 Supabase<br>
+
+API:<br>
+🔌 Express<br>
+🔌 Spring Boot<br>
+
+CI/CD:<br>
+🏗️ GitHub actions<br>
+
+Cloud:<br>
+☁️ AWS<br>
+☁️ Azure<br>
+☁️ Vercel<br>
+
+UI/UX:<br>
+🎨 Figma<br>
+
+Code:<br>
+⛓️ GitHub<br>
+
+Mobile:<br>
+📱 React Native<br>
