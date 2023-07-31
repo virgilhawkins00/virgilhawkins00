@@ -45,7 +45,6 @@ DB:<br>
 📁 PostgreSQL<br>
 📁 MongoDB<br>
 📁 DynamoDB<br>
-📁 Supabase<br>
 📁 MySql<br>
 
 API:<br>
