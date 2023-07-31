@@ -41,11 +41,12 @@ UI:<br>
 🎨 Angular<br>
 🎨 Vue<br>
 
-DB:
+DB:<br>
 📁 PostgreSQL<br>
 📁 MongoDB<br>
 📁 DynamoDB<br>
 📁 Supabase<br>
+📁 MySql<br>
 
 API:<br>
 🔌 Express<br>
