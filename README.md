@@ -50,6 +50,7 @@ DB:
 API:<br>
 🔌 Express<br>
 🔌 Spring Boot<br>
+🔌 Flask<br>
 
 CI/CD:<br>
 🏗️ GitHub actions<br>
