@@ -45,11 +45,18 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virgilhawkins00&show_icons=true&theme=transparent&bg_color=00000000&include_all_commits=true&count_private=true"/>
 </div>
 
-  <br>  
-
+ 
  
 <div> 
-  
+   <br>  
+  I am a 28-year-old full-stack developer with 8 years of experience. I am proficient in JavaScript/TypeScript, React, Next, Nuxt, Vue, Vite, Quasar, Express, REST, SpringBoot, Node, Azure, AWS, Vercel, Netlify, Figma, MySQL, MongoDB, and PostgreSQL. I am currently learning Java and Angular.
+
+I am originally from Bahia, Brazil, but I have been living in Belo Horizonte for the past 5 years. I love to travel and experience new cultures. I am also a passionate cook and have worked as a chef in two restaurants in Belo Horizonte.
+
+In my spare time, I enjoy spending time with my dog, Sam, my girlfriend, and my plants. I also love to meet up with friends and cook for them.
+
+I am a highly motivated and results-oriented individual. I am always looking for new challenges and opportunities to learn and grow. I am confident that I can make a significant contribution to any team or project.
+<br>
 ## Backend language:<br>
 🧮 Node.js<br>
 🧮 Java<br>
