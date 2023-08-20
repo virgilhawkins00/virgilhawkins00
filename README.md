@@ -100,7 +100,7 @@ I am a highly motivated and results-oriented individual. I am always looking for
 📱 React Native<br>
 </div>
 <div> 
-   Certificados:
+   Certifications:
    <br>
    <a href="https://www.hackerrank.com/certificates/63ef9a8d6b93" src="https://www.hackerrank.com/certificates/63ef9a8d6b93"> ## JavaScript </a>
    <br>
