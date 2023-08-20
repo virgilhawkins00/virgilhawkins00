@@ -49,6 +49,7 @@
  
 <div> 
    <br>  
+    Hello, i'm Alex Muniz
   I am a 28-year-old full-stack developer with 8 years of experience. I am proficient in JavaScript/TypeScript, React, Next, Nuxt, Vue, Vite, Quasar, Express, REST, SpringBoot, Node, Azure, AWS, Vercel, Netlify, Figma, MySQL, MongoDB, and PostgreSQL. I am currently learning Java and Angular.
 
 I am originally from Bahia, Brazil, but I have been living in Belo Horizonte for the past 2 years. I love to travel and experience new cultures. I am also a passionate cook and have worked as a chef in two restaurants in Belo Horizonte.
