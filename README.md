@@ -1,7 +1,7 @@
 <h1 align="center"> Alex Muniz </h1>
     
 <div align="center">
-<b>Fullstack Developer | Cheff | Open source enthusiast | Daydreamer </b>
+<b>Fullstack Developer at CredFranco | Cheff | Open source enthusiast | Daydreamer </b>
 <br>
 <br>
 
