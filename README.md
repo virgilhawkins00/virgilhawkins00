@@ -1,7 +1,7 @@
 <h1 align="center"> Alex Muniz </h1>
     
 <div align="center">
-<b>Senior Developer at Tecnol | Cheff | Open source enthusiast | Daydreamer </b>
+<b>Senior Software Engineer at Tecnol | Cheff | Open source enthusiast | Daydreamer </b>
 <br>
 <br>
 
