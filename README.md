@@ -33,7 +33,7 @@
 
 ### 💼 **Founder & Engineer Leadership**
 - **Founder** of [EmpowerTech BR](https://www.empowertech.com.br).
-- **Chief Engineer & Co-Founder** at [ViaOptima](https://www.viaoptima.com.br).
+- **Chief Engineer & Co-Founder** at [ViaOptima](https://www.viaoptima.com).
 
 ---
 
@@ -74,6 +74,27 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=virgilhawkins00&show_icons=true&theme=transparent&bg_color=00000000&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgilhawkins00&langs_count=6&theme=transparent&layout=compact&show_icons=true" alt="Most Used Languages" />
+</div>
+
+### 🔥 My Contributions
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=virgilhawkins00&theme=transparent" alt="GitHub Streak Stats" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=virgilhawkins00&theme=onestar&row=1&column=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
