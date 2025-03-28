@@ -86,12 +86,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgilhawkins00&langs_count=6&theme=transparent&layout=compact&show_icons=true" alt="Most Used Languages" />
 </div>
 
-### 🔥 My Contributions
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=virgilhawkins00&theme=transparent" alt="GitHub Streak Stats" />
-</div>
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
