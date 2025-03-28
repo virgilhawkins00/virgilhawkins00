@@ -1,7 +1,7 @@
 <h1 align="center">Alex Muniz</h1>
 
 <div align="center">
-    <b>Senior Fullstack Developer | Open Source Enthusiast | Chef | Dreamer</b>
+    <b>Senior Software Engineer | Frontend Specialist | Secure Development | Cross-Platform Mobile Expert | PHP & Laravel Specialist</b>
     <br><br>
     <blockquote>
         <p><i>
@@ -23,63 +23,53 @@
 
 ## 👋 About Me
 
-- 🌍 Originally from Bahia, Brazil, now based in Belo Horizonte.
-- 💻 Fullstack developer with **11 years of experience**.
-- 🌱 Currently learning **SwiftUI, Kotlin, and Go**.
-- 🍳 Former chef, passionate about cooking.
+- 🌍 **From Bahia, Brazil** – Now living in Belo Horizonte.
+- 💻 **Senior Software Engineer** with **11 years of experience**.
+- 🎯 Specialized in **Frontend Development**, **Secure Development**, **Cross-Platform Mobile Engineering**, and **PHP & Laravel**.
+- 🌱 Currently learning **SwiftUI**, **Kotlin**, and **Go**.
+- 🍳 Former chef, passionate about cooking and exploring new cultures.
 - 🏡 Enjoys spending time with **Sam (my dog), my girlfriend, and my plants**.
-- 🚀 Always looking for new challenges and opportunities to grow.
+- 🚀 Always seeking new challenges and opportunities for growth.
 
-### 🛠 Tech Stack
+---
 
-#### **Backend**
+## 🛠 Tech Stack
+
+### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-#### **Frontend & UI**
+### **Frontend & UI Development**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-#### **Mobile Development**
+### **Mobile Development**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-#### **Databases**
+### **Databases & Storage**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-#### **DevOps & Cloud**
+### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-#### **CI/CD & Tools**
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-    <a href="https://github.com/virgilhawkins00">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgilhawkins00&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages" alt="Most used languages">
-    </a>
-    <br>
-    <a href="https://github.com/virgilhawkins00">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virgilhawkins00&show_icons=true&theme=transparent&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    </a>
-</div>
 
 ---
 
@@ -92,6 +82,5 @@
 
 ---
 
-### 🚀 Always open to collaborating on exciting projects!
+### 🚀 Open to collaborating on exciting projects!
 Feel free to connect with me! 😃
-
