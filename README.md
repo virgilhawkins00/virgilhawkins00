@@ -31,6 +31,10 @@
 - 🏡 Enjoys spending time with **Sam (my dog), my girlfriend, and my plants**.
 - 🚀 Always seeking new challenges and opportunities for growth.
 
+### 💼 **Founder & Engineer Leadership**
+- **Founder** of [EmpowerTech BR](https://www.empowertech.com.br).
+- **Chief Engineer & Co-Founder** at [ViaOptima](https://www.viaoptima.com.br).
+
 ---
 
 ## 🛠 Tech Stack
@@ -70,15 +74,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
-
----
-
-## 📜 Certifications
-
-- [JavaScript (HackerRank)](https://www.hackerrank.com/certificates/63ef9a8d6b93)
-- [React (HackerRank)](https://www.hackerrank.com/certificates/812950460902)
-- [Node.js (HackerRank)](https://www.hackerrank.com/certificates/95872c27738e)
-- [SQL (HackerRank)](https://www.hackerrank.com/certificates/ce65020048a6)
 
 ---
 
