@@ -26,7 +26,7 @@
 - 🌍 **From Bahia, Brazil** – Now living in Belo Horizonte.
 - 💻 **Senior Software Engineer** with **11 years of experience**.
 - 🎯 Specialized in **Frontend Development**, **Secure Development**, **Cross-Platform Mobile Engineering**, and **PHP & Laravel**.
-- 🌱 Currently learning **SwiftUI**, **Kotlin**, and **Go**.
+- 🌱 Currently learning **SwiftUI**, **Kotlin**, **Go**.
 - 🍳 Former chef, passionate about cooking and exploring new cultures.
 - 🏡 Enjoys spending time with **Sam (my dog), my girlfriend, and my plants**.
 - 🚀 Always seeking new challenges and opportunities for growth.
@@ -61,6 +61,8 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### **Databases & Storage**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -93,7 +95,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=virgilhawkins00&theme=onestar&row=1&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=virgilhawkins00&theme=onestar&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
