@@ -78,21 +78,5 @@
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 ---
-
-### 📊 My GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=virgilhawkins00&show_icons=true&theme=transparent&bg_color=00000000&include_all_commits=true&count_private=true" alt="My GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgilhawkins00&langs_count=6&theme=transparent&layout=compact&show_icons=true" alt="Most Used Languages" />
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=virgilhawkins00&theme=onestar&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 🚀 Open to collaborating on exciting projects!
 Feel free to connect with me! 😃
