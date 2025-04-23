@@ -33,7 +33,7 @@
 
 ### 💼 **Founder & Engineer Leadership**
 - **Founder** of [EmpowerTech BR](https://www.empowertech.com.br).
-- **Chief Engineer & Co-Founder** at [ViaOptima](https://www.viaoptima.com).
+- **Chief Engineer & Co-Founder** at [ViaOptima](https://www.viaoptima.com.br).
 
 ---
 
