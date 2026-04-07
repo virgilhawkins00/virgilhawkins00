@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alex%20Muniz&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <h3>🚀 Senior Software Engineer | Principal Software Engineer & Co-Founder @ <a href="https://www.viaoptima.com.br">ViaOptima</a></h3>
+  <h3>🚀 Senior Software Engineer | CTO & Co-Founder @ <a href="https://www.viaoptima.com.br">ViaOptima</a></h3>
 
   <p align="center">
     <i>"Education and technology are two of the most powerful tools we have to change the world."</i> ⚛✨🎓
@@ -30,23 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=virgilhawkins00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgilhawkins00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virgilhawkins00&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
-</div>
-
----
 
 ### 🛠 Tech Stack
 
