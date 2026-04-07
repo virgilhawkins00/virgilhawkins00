@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alex%20Muniz&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <h3>🚀 Senior Software Engineer | CTO & Co-Founder @ <a href="https://www.viaoptima.com.br">ViaOptima</a></h3>
+  <h3>🚀 Senior Software Engineer | Principal Software Engineer & Co-Founder @ <a href="https://www.viaoptima.com.br">ViaOptima</a></h3>
 
   <p align="center">
     <i>"Education and technology are two of the most powerful tools we have to change the world."</i> ⚛✨🎓
