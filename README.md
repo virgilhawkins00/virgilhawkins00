@@ -1,81 +1,80 @@
-<h1 align="center">Alex Muniz</h1>
-
 <div align="center">
-    <b>Senior Software Engineer | Frontend Specialist | Secure Development | Cross-Platform Mobile Expert | PHP & Laravel Specialist</b>
-    <br><br>
-    <blockquote>
-        <p><i>
-            "Education and technology are two of the most powerful tools we have to change the world. Education helps us understand our surroundings and develop the skills to make a difference. Technology connects us and enables idea sharing." ⚛✨🎓🗣️
-        </i></p>
-    </blockquote>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Alex%20Muniz&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+  <h3>🚀 Senior Software Engineer | Principal Software Engineer & Co-Founder @ <a href="https://www.viaoptima.com.br">ViaOptima</a></h3>
+
+  <p align="center">
+    <i>"Education and technology are two of the most powerful tools we have to change the world."</i> ⚛✨🎓
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/virgilhawkins00/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:alex@viaoptima.com.br">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
+---
+
+### 👨‍💻 About Me
+
+- 🌍 **Origin:** Bahia, Brazil 🇧🇷 | **Current:** Belo Horizonte, MG.
+- 🛠 **Experience:** 12+ years building scalable systems and secure applications.
+- 🎯 **Domain:** Backend Architecture, Secure Development, Cross-Platform Mobile Engineering, and PHP/Laravel Ecosystem.
+- 🌱 **Evolving:** Deep-diving into **Go** and **Rust** (Performance & Safety).
+- 🏗 **Leadership:** Chief Engineer and Co-Founder of [ViaOptima](https://www.viaoptima.com.br), turning complex logistics into elegant solutions.
+- 🍳 **Off-screen:** Former pro-chef. I treat code like a fine recipe: balance, precision, and soul. 🍜✨
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=odysseyofmyself">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://www.linkedin.com/in/lexmunizes/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=virgilhawkins00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgilhawkins00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virgilhawkins00&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
 </div>
 
 ---
 
-## 👋 About Me
+### 🛠 Tech Stack
 
-- 🌍 **From Bahia, Brazil** – Now living in Belo Horizonte.
-- 💻 **Senior Software Engineer** with **11 years of experience**.
-- 🎯 Specialized in **Frontend Development**, **Secure Development**, **Cross-Platform Mobile Engineering**, and **PHP & Laravel**.
-- 🌱 Currently learning **SwiftUI**, **Kotlin**, **Go**.
-- 🍳 Former chef, passionate about cooking and exploring new cultures.
-- 🏡 Enjoys spending time with **Sam (my dog), my girlfriend, and my plants**.
-- 🚀 Always seeking new challenges and opportunities for growth.
+<div align="center">
+  <h4>Languages & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,php,laravel,cpp,cs,dotnet,react,nextjs,angular,vue,go,rust,python,java,swift,kotlin,dart,flutter" />
+  
+  <br/>
+  
+  <h4>Infrastructure & Cloud</h4>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify,githubactions,docker" />
 
-### 💼 **Founder & Engineer Leadership**
-- **Chief Engineer & Co-Founder** at [ViaOptima](https://www.viaoptima.com.br).
+  <br/>
 
----
-
-## 🛠 Tech Stack
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### **Frontend & UI Development**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### **Mobile Development**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### **Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
+  <h4>Databases & Messaging</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,kafka,rabbitmq" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats&logoColor=white" height="48" />
+</div>
 
 ---
-### 🚀 Open to collaborating on exciting projects!
-Feel free to connect with me! 😃
+
+### 🤝 Let's Collaborate!
+
+I'm always open to discussing new technologies, leadership roles, or exciting side projects. If you're building something that solves real-world problems with high-performance code, let's chat!
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Vibe-Senior%20Software%20Engineer-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Secure%20Development-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20the%20future-orange?style=flat-square" />
+</div>
+
